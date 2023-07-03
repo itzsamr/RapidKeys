@@ -21,7 +21,7 @@ To get started with Type-Master, follow these steps:
 1. **Clone the repository**: Clone the Type-Master repository to your local machine using the command:
 
    ```
-   git clone https://github.com/your-username/type-master.git
+   https://github.com/itzsamr/Type-Master.git
    ```
 
 2. **Open the project**: Navigate to the cloned repository and open the `index.html` file in your preferred web browser.
