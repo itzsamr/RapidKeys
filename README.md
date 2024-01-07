@@ -1,6 +1,6 @@
 # RapidKeys
 
-RapidKeys is a GitHub project that aims to enhance your typing speed and accuracy. It provides a web-based typing application built with HTML, CSS, and JavaScript to help you improve your typing skills and become a faster and more efficient typist. Whether you're a beginner or an experienced typist, Type-Master has something to offer.
+RapidKeys is a GitHub project that aims to enhance your typing speed and accuracy. It provides a web-based typing application built with HTML, CSS, and JavaScript to help you improve your typing skills and become a faster and more efficient typist. Whether you're a beginner or an experienced typist, RapidKeys has something to offer.
 
 ## Features
 
